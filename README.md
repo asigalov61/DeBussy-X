@@ -5,5 +5,20 @@
 
 ***
 
+## Original Version
+
+[![Open In Colab][colab-badge]][colab-notebook2]
+
+[colab-notebook2]: <https://colab.research.google.com/github/asigalov61/DeBussy-X/blob/main/DeBussy_X.ipynb>
+[colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
+
+***
+
+## Useful links:
+
+### https://github.com/asigalov61/DeBussy
+
+***
+
 ### Project Los Angeles
 ### Tegridy Code 2023
