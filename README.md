@@ -12,6 +12,8 @@
 [colab-notebook2]: <https://colab.research.google.com/github/asigalov61/DeBussy-X/blob/main/DeBussy_X.ipynb>
 [colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
 
+### Features demonstration
+
 ***
 
 ## Useful links:
